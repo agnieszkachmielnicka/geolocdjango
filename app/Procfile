@@ -1,0 +1,1 @@
+web: gunicorn geo_loc_project.wsgi --log-file -
