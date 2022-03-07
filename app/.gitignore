@@ -135,8 +135,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-Procfile
-runtime.txt
-
 # docker
+docker-compose.yaml
 .dockerignore
+Dockerfile
