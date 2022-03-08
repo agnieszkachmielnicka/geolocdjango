@@ -7,3 +7,5 @@ docker-compose --build
 docker-compose up
 
 # Server started
+https://geolocdjango.herokuapp.com/admin -> live server
+https://geolocreact.herokuapp.com/ -> live app
